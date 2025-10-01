@@ -1,4 +1,9 @@
 # REDCap User Profile
+
+This repository is no longer actively maintained. The project for which it was written is now over. There's no funding to provide further maintenance for other projects. Please feel free to use this code according to the license; however, the authors are unable to offer any additional support.
+
+---------------------
+
 REDCap User Profile is an external module that extends user accounts information according to your needs - e.g. address, country of birth, job position, etc. This module provides:
 
 - An easy way to manage user profiles
